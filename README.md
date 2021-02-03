@@ -18,8 +18,8 @@
         - FULL : 
             - 60-61 % (cifar100)
             - 85-86.63 % (cifar10)
-        <img src="Bonus/cifar10.png" width="500">
-        <img src="Bonus/cifar100.png" width="500">
+        <img src="Lab7/cifar10.png" width="500">
+        <img src="Lab7/cifar100.png" width="500">
     3. Possible improvements:
         - Data augmentaton: This models are implemented without any data augmentaton
         - Try Two classifer: Ensemble of the Image segmentation and FULL_SKIP, where output are crossshared 
