@@ -1,9 +1,10 @@
 # DL_project
  
 # Lab7:
-    - In this segment I talk about how to increase the model accuracy by sharing the lattent representation of A Unet like  model with a simple classifer 
-    1.  Models :
-        - BASE:
+ - In this segment I talk about how to increase the model accuracy by sharing the lattent representation of A Unet like  model with a simple classifer
+  1. Models :
+    - BASE:
+        - 
             - Encoder part of the unet + global pooling + FC 
         - BASE + ENCODER:
             - Add Encoder out as skip connection 
